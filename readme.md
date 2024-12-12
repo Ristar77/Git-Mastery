@@ -1,3 +1,4 @@
-## Hello, Git
+## Heyoo everyone, welcome to my git guide!
 
--I'm adding this to bug fix list
+- Yo, Johnny here!
+  -I'm adding this to bug fix list
