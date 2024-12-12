@@ -1,4 +1,6 @@
-## Heyoo everyone, welcome to my git guide!
+## Welcome to Git!
 
 - Yo, Johnny here!
-  -I'm adding this to bug fix list
+
+ - This is coming from dev-Rick
+-I'm adding this to bug fix list
